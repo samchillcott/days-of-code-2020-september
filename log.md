@@ -60,3 +60,8 @@
 **Thoughts** 
 - Reading about Human Computer Interaction (HCI) and cognitive science. Super intrigued by this area as it covers two of my passions (and career paths) of computing and psychology.
 - Opted for a cycle today instead of a run. As much as I love running, it does tend to reduce my sleep quality the night of the run which then affects my productivity the next day.
+
+### #daysofcode 16/9/20 
+
+**Today's Progress**
+- Code Reviews - Learning what is involved and best practices for receiving them.
