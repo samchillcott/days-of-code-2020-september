@@ -65,3 +65,12 @@
 
 **Today's Progress**
 - Code Reviews - Learning what is involved and best practices for receiving them.
+
+### #daysofcode 18/9/2 
+
+**Today's Progress**
+- Prepped converting existing functions into smaller components.
+
+**Thoughts** 
+- A few of my functions do more than one thing so have been looking at how I can break them down further which also enables unit testing.
+- A few of them involved interaction with the database so will start to look at mocking soon. 
