@@ -83,3 +83,4 @@
 **Thoughts** 
 - Been recommended to check out Jeff Sutherland to get a better idea of scrum so I bought his book and watched a few vids.
 - Fascinating back story to JS (Planning and landing a jet during war, cellular evolution/cancer research etc) - love how he brought in knowledge and experience from other disciplines to solve his challenges. It's almost like sampling and influences in music production except with ideas and concepts.
+- Love the 5 scrum values - Openness, Courage, Respect, Focus and Commitment. Cool that this process has the concept of values as part of it. Used a lot in coaching and I also update and work to mine each few months. Another cool parallel with coaching.
