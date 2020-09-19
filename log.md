@@ -66,7 +66,7 @@
 **Today's Progress**
 - Code Reviews - Learning what is involved and best practices for receiving them.
 
-### #daysofcode 18/9/2 
+### #daysofcode 18/9/20 
 
 **Today's Progress**
 - Prepped converting existing functions into smaller components.
@@ -74,3 +74,12 @@
 **Thoughts** 
 - A few of my functions do more than one thing so have been looking at how I can break them down further which also enables unit testing.
 - A few of them involved interaction with the database so will start to look at mocking soon. 
+
+### #daysofcode 19/9/20 
+
+**Today's Progress**
+- Scrum: The art of doing twice the work in half the time. Getting myself more familiar with the methodology.
+
+**Thoughts** 
+- Been recommended to check out Jeff Sutherland to get a better idea of scrum so I bought his book and watched a few vids.
+- Fascinating back story to JS (Planning and landing a jet during war, cellular evolution/cancer research etc) - love how he brought in knowledge and experience from other disciplines to solve his challenges. It's almost like sampling and influences in music production except with ideas and concepts.
