@@ -92,3 +92,17 @@
 
 **Thoughts** 
 - Full day off code. Only had 3 in the last 5 weeks. Deserved breather.
+
+### #daysofcode 21/9/20 
+
+**Today's Progress**
+- Testing React Components - looking at the common methods in React Testing Library. Rather than dealing with instances of rendered React components, your tests will work with actual DOM nodes = more maintainable.
+- Snapshot Test - generates an HTML-like output so you can see how your component is structured. It’s especially useful if you want to see how your CSS properties are injected according to events.
+- data-testid - makes the relationship between the test and the source code more explicit. Add some metadata to the element you are trying to select using an existing API - data- attributes.
+
+**Thoughts** 
+- Most of my testing to date has been around functions/functionality but this will also test to make sure the components are rendering(correctly).
+- There is a lot going on here compared to simple unit tests but sure once I have a go myself it will make more sense.
+- Realised this am that the chrome extensions I installed to remind me to breathe deeper, more often are being ignored (almost annoying me/having the opposite effect) so would like to take the reminder back on board.
+- I see Jest has a coverage option that can tell you how much of your project is covered by tests - super cool.
+- Had a brief look at testing hooks - another layer to learn.
