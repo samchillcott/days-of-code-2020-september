@@ -106,3 +106,12 @@
 - Realised this am that the chrome extensions I installed to remind me to breathe deeper, more often are being ignored (almost annoying me/having the opposite effect) so would like to take the reminder back on board.
 - I see Jest has a coverage option that can tell you how much of your project is covered by tests - super cool.
 - Had a brief look at testing hooks - another layer to learn.
+
+### #daysofcode 22/9/20 
+
+**Today's Progress**
+- Think in React (5 steps) - 1. Break the UI into components 2. Build a static version 3. Minimal representation of state 4. Where should state live? 5. Add inverse data flow.
+- Component Lifecycle Methods refresher - Mounting, Updating, Unmounting and Error Handling.
+
+**Thoughts** 
+- Going back over some basics today to solidify some React fundamentals.
