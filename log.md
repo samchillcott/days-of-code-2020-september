@@ -115,3 +115,8 @@
 
 **Thoughts** 
 - Going back over some basics today to solidify some React fundamentals.
+
+### #daysofcode 23/9/20 
+
+**Today's Progress**
+- Job prep.
