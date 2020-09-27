@@ -136,3 +136,11 @@
 **Today's Progress**
 - Planning next phase:
 - Highlighting which areas of React to concentrate on next using guides by @dev.jeanrauwers and the React Learning Path 2020. Forms and main hooks to start with.
+
+### #daysofcode 27/9/20 
+
+**Today's Progress**
+- N/A.
+
+**Thoughts** 
+- Day off from code. Exercise and family time to recharge.
