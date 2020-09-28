@@ -144,3 +144,15 @@
 
 **Thoughts** 
 - Day off from code. Exercise and family time to recharge.
+
+### #daysofcode 28/9/20 
+
+**Today's Progress**
+- React Forms:
+- Controlled components - form data is handled by a React component. Uncontrolled components - form data is handled by the DOM itself. Input, text area, select and submit.
+- Basic Hooks refresher - useState, useEffect, useContext.
+
+**Thoughts** 
+- The React Learning Path has given me some structure to my React learning going forward. I'm excited to dive deeper and fully grasp the fundamentals then move onto the more advanced concepts. Setup my RJS google doc in a logical manner.
+- Nice to get back to learning after a few weeks of job prep.
+- Understanding what life was like pre hooks explains a lot of "older code" I have come across and the motivation behind the main hooks and APIs React have added recently.
