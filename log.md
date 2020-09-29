@@ -156,3 +156,15 @@
 - The React Learning Path has given me some structure to my React learning going forward. I'm excited to dive deeper and fully grasp the fundamentals then move onto the more advanced concepts. Setup my RJS google doc in a logical manner.
 - Nice to get back to learning after a few weeks of job prep.
 - Understanding what life was like pre hooks explains a lot of "older code" I have come across and the motivation behind the main hooks and APIs React have added recently.
+
+### #daysofcode 29/9/20 
+
+**Today's Progress**
+- React Hooks Refresher - Understanding what all the main ones do and when you might use them.
+- Custom Hooks - Building your own Hooks lets you extract component logic into reusable functions.
+
+**Thoughts** 
+- Although these are basics, I wanted to go over them to ensure I fully comprehended how/when to utilise them in applications. I have used many of them in my projects but not often enough that they are second nature, yet.
+- Am jumping ahead (predicting and writing the code while I pause the vid) on some of the tuts so I do have a good grasp of the common hooks.
+- First glance at custom hooks - like the idea.
+- useState and useEffect covered. useRef up next.
